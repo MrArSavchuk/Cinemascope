@@ -3,8 +3,6 @@
 CineScope is a modern web app for **searching movies and TV shows** powered by [TheMovieDB API](https://www.themoviedb.org/).  
 It delivers an elegant interface with **dark/light themes, favorites management, advanced filters**, and **fullscreen modals** with detailed info.
 
-![screenshot](./public/screenshot.png)
-
 ---
 
 ## ✨ Features
@@ -23,7 +21,7 @@ It delivers an elegant interface with **dark/light themes, favorites management,
 ## 🚀 Demo
 
 Deployed on **Netlify** (auto-deploy from GitHub).  
-👉 [Live Demo](cinemascope123.netlify.app/)  
+👉 [Live Demo](https://cinemascope123.netlify.app/)  
 
 ---
 
