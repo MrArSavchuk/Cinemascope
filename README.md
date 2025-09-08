@@ -23,7 +23,7 @@ It delivers an elegant interface with **dark/light themes, favorites management,
 ## 🚀 Demo
 
 Deployed on **Netlify** (auto-deploy from GitHub).  
-👉 [Live Demo](https://your-netlify-link.netlify.app/)  
+👉 [Live Demo](cinemascope123.netlify.app/)  
 
 ---
 
@@ -42,7 +42,7 @@ Deployed on **Netlify** (auto-deploy from GitHub).
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/your-username/cinescope.git
+   git clone https://github.com/MrArSavchuk/Cinemascope
    cd cinescope
    ```
 
